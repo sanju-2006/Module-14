@@ -10,6 +10,8 @@ To write a Python program to implement CPU Process Scheduling using a queue.
 
 ### ALGORITHM  
 
+
+
 1. Start the program.  
 2. Define the function `CalculateWaitingTime(at, bt, N)`.  
 3. Initialize a list `wt` of size `N` with all values set to 0.  
