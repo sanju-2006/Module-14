@@ -1,10 +1,12 @@
 # Exp.No:38  
-## Deque - DELETION
+## REAR END of deque using collection built-in function
 
 ---
 
 ### AIM  
-To write a Python program to delete elements at FRONT END of deque using a collection built-in function.
+Write a Python program to insert 14, 15 at REAR END of deque using collection built-in function.
+
+
 
 ---
 
@@ -24,9 +26,23 @@ To write a Python program to delete elements at FRONT END of deque using a colle
 ### PROGRAM  
 
 ```
+import collections
+de=collections.deque([])
+for i in range(3):
+    a=int(input())
+    de.append(a)
+de.append(14)
+de.append(15)
+print("The deque after appending at right is :")
+print(de)
 ```
 
 ### OUTPUT
 
+The deque after appending at right is :
+deque([11, 12, 13, 14, 15])
 
 ### RESULT
+
+
+<img width="924" height="286" alt="image" src="https://github.com/user-attachments/assets/72c6161c-d5f5-44a7-aae3-71f0d708dc90" />
