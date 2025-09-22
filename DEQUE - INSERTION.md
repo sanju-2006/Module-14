@@ -37,6 +37,7 @@ print(de)
 ```
 
 ### OUTPUT
+
 The deque after appending at right is :
 deque([11, 12, 13, 14, 15])
 
