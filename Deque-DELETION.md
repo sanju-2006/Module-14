@@ -39,10 +39,9 @@ print(de)
 
 ### OUTPUT
 
-The deque after appending at right is :
-deque([11, 12, 13, 14, 15])
+<img width="924" height="286" alt="image" src="https://github.com/user-attachments/assets/72c6161c-d5f5-44a7-aae3-71f0d708dc90" />
+
 
 ### RESULT
 
-
-<img width="924" height="286" alt="image" src="https://github.com/user-attachments/assets/72c6161c-d5f5-44a7-aae3-71f0d708dc90" />
+ Python program to insert 14, 15 at REAR END of deque using collection built-in function is successfully verified
