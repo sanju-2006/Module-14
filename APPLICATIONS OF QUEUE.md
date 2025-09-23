@@ -114,6 +114,8 @@ if __name__ =="__main__":
 <img width="1126" height="430" alt="image" src="https://github.com/user-attachments/assets/0ac052c6-da16-4e93-bab0-f7fb83112240" />
 
 
+
+
 ### RESULT
 
 Python program to implement CPU Process Scheduling using a queue is successfully verified
