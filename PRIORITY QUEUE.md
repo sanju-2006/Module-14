@@ -72,13 +72,9 @@ while not myQueue.isEmpty():
 
 ### OUTPUT
 
-12 1 14 7
-14
-12
-7
-1
+<img width="465" height="405" alt="image" src="https://github.com/user-attachments/assets/1265434d-4f56-46a2-8bfd-2e7dd1d6cfa9" />
+
 
 ### RESULT
 
-
-<img width="465" height="405" alt="image" src="https://github.com/user-attachments/assets/1265434d-4f56-46a2-8bfd-2e7dd1d6cfa9" />
+Python program for simple implementation of Priority Queue using Queue is successfully verified
