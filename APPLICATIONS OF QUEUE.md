@@ -110,15 +110,11 @@ if __name__ =="__main__":
 ```
 
 ### OUTPUT
-Processes Burst time  Waiting time  Turn around time
- 1   10  0    10
- 2   5  10    15
- 3   8  15    23
-Average waiting time = 8.333333333333334
-Average turn around time = 16.0
+
+<img width="1126" height="430" alt="image" src="https://github.com/user-attachments/assets/0ac052c6-da16-4e93-bab0-f7fb83112240" />
+
 
 ### RESULT
 
-
-<img width="1126" height="430" alt="image" src="https://github.com/user-attachments/assets/0ac052c6-da16-4e93-bab0-f7fb83112240" />
+Python program to implement CPU Process Scheduling using a queue is successfully verified
 
