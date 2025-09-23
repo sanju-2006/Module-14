@@ -65,9 +65,9 @@ print(queue.items)
 ```
 
 ### OUTPUT
-['java', 'python', 'c++']
+
+<img width="722" height="339" alt="image" src="https://github.com/user-attachments/assets/3f72e9eb-27e9-4a1a-adf8-bfe60c7ae1b2" />
 
 ### RESULT
 
-
-<img width="722" height="339" alt="image" src="https://github.com/user-attachments/assets/3f72e9eb-27e9-4a1a-adf8-bfe60c7ae1b2" />
+Python program with a function to insert float values into a Circular Queue is successfully verified
